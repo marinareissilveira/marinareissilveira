@@ -1,4 +1,4 @@
-<strong style= font-size:3em;>👋 Olá! Aqui é a Marina 👋</strong>
+<strong>👋 Olá! Aqui é a Marina 👋</strong>
 <p>✨Sou nova no Github e espero poder aprender mais!<br>
 Faz alguns meses que comecei no mundo da programação e espero <br>poder expandir meus conhecimentos por aqui também.</p>
 <hr>
