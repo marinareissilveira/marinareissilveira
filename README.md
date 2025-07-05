@@ -6,7 +6,6 @@ Faz alguns meses que comecei no mundo da programação e espero <br>poder expand
   <li>🎮 Amo jogos</li>
   <li>🎵 Gosto de qualquer tipo de música</li>
   <li>🎨 Adoro tudo que envolva design</li>
-  <li>💡 No momento estou aprendendo HTML e CSS, logo<br> indo pra JavaScript</li>
 </ul>
 
 <strong><p>Qualquer amizade é bem vinda!😁</p></strong>
